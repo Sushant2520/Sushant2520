@@ -48,4 +48,4 @@ Hi, I'm **Sushant Tripathi** — a final-year B.Tech CSE student at VIT Bhopal, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant2520&layout=compact&theme=github_dark)
 
 ---
-Update profile README
+
