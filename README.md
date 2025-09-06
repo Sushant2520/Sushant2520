@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sushant Tripathi
 
-🎓 Final-year **B.Tech (CSE)** — VIT Bhopal • 
-🔭 Building full-stack apps & data products • 
-⚡ Problem solver (300+ DSA problems)
+•🎓 Final-year **B.Tech (CSE)** — VIT Bhopal 
+• 🔭 Building full-stack apps & data products  
+•⚡ Problem solver (300+ DSA problems)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-tripathi-a1035a219/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant2520) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sushant2520/) 
 [![GfG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sushanttripathi2000st/)  
-✉️  [sushant.tripathi2000.st@gmail.com](mailto:sushant.tripathi2000.st@gmail.com) • 
+✉️  [sushant.tripathi2000.st@gmail.com](mailto:sushant.tripathi2000.st@gmail.com)  
 
 ---
 
