@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant2520) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sushant2520/) 
 [![GfG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sushanttripathi2000st/)  
-✉️  [sushant.tripathi2000.st@gmail.com](mailto:sushant.tripathi2000.st@gmail.com) • 📄 [Resume (PDF)](./Sushant_Tripathi_CV.pdf)
+✉️  [sushant.tripathi2000.st@gmail.com](mailto:sushant.tripathi2000.st@gmail.com) • 
 
 ---
 
