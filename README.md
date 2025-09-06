@@ -23,7 +23,7 @@ I’m a final-year Computer Science student with hands-on experience building pr
 
 ---
 
-## 💼 Experience (selected)
+## 💼 Experience 
 ### TechEnhance — *Software Development Intern* (Jan 2025 – Mar 2025)  
 - Developed & maintained full-stack apps using **React.js, Node.js, MongoDB**.  
 - Optimized API flow & DB usage — **+30% API efficiency**.  
