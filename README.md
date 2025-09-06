@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushant Tripathi
 
 •🎓 Final-year **B.Tech (CSE)** — VIT Bhopal 
-• 🔭 Building full-stack apps & data products  
+•🔭 Building full-stack apps & data products  
 •⚡ Problem solver (300+ DSA problems)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-tripathi-a1035a219/) 
