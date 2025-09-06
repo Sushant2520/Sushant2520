@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I’m a final-year Computer Science student with hands-on experience building production-like web apps and data solutions. I bridge **Full-Stack Engineering** (React, Node, Mongo/Postgres) with **Data Analytics** (Python, Pandas, Power BI) to deliver end-to-end features and actionable insights.
+I’m a final-year Computer Science student with hands-on experience building production-like web apps and data solutions. I bridge **Full-Stack Engineering** (React.js, Node.js, Next.js, MongoDB/MySQL) with **Data Analytics** (Python,Numpy, DAX, Power Query, Pandas, Power BI , Tableau) to deliver end-to-end features and actionable insights.
 
 **Core strengths**
 - Building responsive, maintainable frontends and scalable backends  
@@ -29,7 +29,7 @@ I’m a final-year Computer Science student with hands-on experience building pr
 - Optimized API flow & DB usage — **+30% API efficiency**.  
 - Collaborated in Agile sprints and used Git for version control.
 
-### Innobyte  — *Data Analyst Intern* (Nov 2024 – Jan 2025)  
+### Innobyte  — *Data Analyst Intern* (Oct 2024 – Dec 2024)  
 - Built ETL workflows using **PostgreSQL**, reducing data processing time by **40%**.  
 - Developed **4 Power BI dashboards**, including a billing dashboard that cut billing discrepancies by **30%**.
 
@@ -50,15 +50,6 @@ I’m a final-year Computer Science student with hands-on experience building pr
 **Tech:** React.js, Node.js, Express, MongoDB, Tailwind CSS  
 - Full-stack portal to manage campus recruitment workflows (students & T&P teams).  
 - Scalable backend & responsive frontend — improved application throughput by **40%** and reduced manual intervention by **60%**.
-
-### (Other notable) GarbageWallah — MERN scrap marketplace  
-**Tech:** React, Node, MongoDB — scheduling + user flows for scrap collection.
-
-### MovieApp — TMDB-powered Movie Explorer  
-**Tech:** React, Tailwind, Auth0 — search, filter, favorites & watch-later features.
-
-### DeliverIT — Food Delivery Marketplace  
-**Tech:** JavaScript, Tailwind CSS — restaurant listing, orders & basic payment UI.
 
 ### T20 World Cup Data Analysis — Team Selection Dashboard  
 **Tech:** Python, Pandas, Power BI — scraped data, transformed metrics & produced a Power BI report to recommend an optimal playing XI.
