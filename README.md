@@ -3,7 +3,6 @@
 •🎓 Final-year **B.Tech (CSE)** — VIT Bhopal 
 •🔭 Building full-stack apps & data products  
 •⚡ Problem solver (300+ DSA problems)
-•🔭 Building full-stack apps & data products
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-tripathi-a1035a219/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant2520) 
