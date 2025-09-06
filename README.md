@@ -57,7 +57,7 @@
 
 ## 📂 Featured Projects  
 
-### 🚀 [GarbageWallah](https://github.com/yourusername/GarbageWallah)  
+### 🚀 [GarbageWallah]  
 Scrap-selling platform using the MERN stack.  
 🛠️ *Tech:* React.js, Node.js, Express, MongoDB  
 
