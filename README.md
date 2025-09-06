@@ -37,24 +37,6 @@ I’m a final-year Computer Science student with hands-on experience building pr
 - Built scalable backends with **Node.js & Express**, improving API performance by **25%**.  
 - Integrated **JWT-based authentication** and middleware for logging & error handling.
 
----
-
-## 📂 Featured Projects
-
-### AIMock — *AI-driven Mock Interview App*  
-**Tech:** React (TypeScript), Google Gemini AI, Firebase, Shadcn UI, Clerk auth  
-- Dynamic question generation powered by Google Gemini and real-time TTS feedback.  
-- User progress tracking, secure auth via Clerk, responsive UI and accessibility improvements.
-
-### PlacementCell Portal  
-**Tech:** React.js, Node.js, Express, MongoDB, Tailwind CSS  
-- Full-stack portal to manage campus recruitment workflows (students & T&P teams).  
-- Scalable backend & responsive frontend — improved application throughput by **40%** and reduced manual intervention by **60%**.
-
-### T20 World Cup Data Analysis — Team Selection Dashboard  
-**Tech:** Python, Pandas, Power BI — scraped data, transformed metrics & produced a Power BI report to recommend an optimal playing XI.
-
-> Each project repo includes a README with setup, demo screenshots, and live/demo instructions. (See pinned repos on my GitHub)
 
 ---
 
