@@ -29,9 +29,11 @@ I’m a final-year Computer Science student with hands-on experience building pr
 - Optimized API flow & DB usage — **+30% API efficiency**.  
 - Collaborated in Agile sprints and used Git for version control.
 
-### Innobyte  — *Data Analyst Intern* (Oct 2024 – Dec 2024)  
-- Built ETL workflows using **PostgreSQL**, reducing data processing time by **40%**.  
-- Developed **4 Power BI dashboards**, including a billing dashboard that cut billing discrepancies by **30%**.
+### Plypicker  — *Data Analyst Intern* (Sept 2024 – Dec 2024)  
+- Performed data cleaning and transformation using **Python (Pandas, NumPy)** and **Power Query**, improving data accuracy and reducing manual errors by 35% across reports.
+.  
+- Built **Power BI** & **Tableau dashboards** to visualize sales & customer insights, enabling data-driven decisions.
+- **Automated** recurring reports and **KPI tracking**, reducing reporting time by 40% and improving cross-departmental data accessibility and decision-making speed.
 
 ### Ethnus — *Full Stack Intern* (Sept 2023 – Nov 2023)  
 - Built scalable backends with **Node.js & Express**, improving API performance by **25%**.  
