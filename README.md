@@ -1,134 +1,89 @@
 # 👋 Hi, I'm Sushant Tripathi
 
-•🎓 Final-year **B.Tech (CSE)** — VIT Bhopal 
-•🔭 Building full-stack apps & data products  
-•⚡ Problem solver (300+ DSA problems)
+- 📊 Data Analyst / Business Analyst @ Infinity Analytics Consulting
+- 🎓 B.Tech CSE, VIT Bhopal (2021–2025)
+- ⚡ Building data pipelines, BI dashboards & database architectures that drive business decisions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-tripathi-a1035a219/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant2520) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sushant2520/) 
-[![GfG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sushanttripathi2000st/)  
-✉️  [sushant.tripathi2000.st@gmail.com](mailto:sushant.tripathi2000.st@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant2520/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sushant2520)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Sushant2520/)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sushanttripathi2000st/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sushant.tripathi2000.st@gmail.com)
 
 ---
 
 ## 🚀 About Me
-I’m a final-year Computer Science student with hands-on experience building production-like web apps and data solutions. I bridge **Full-Stack Engineering** (React.js, Node.js, Next.js, MongoDB/MySQL) with **Data Analytics** (Python,Numpy, DAX, Power Query, Pandas, Power BI , Tableau) to deliver end-to-end features and actionable insights.
 
-**Core strengths**
-- Building responsive, maintainable frontends and scalable backends  
-- Designing ETL pipelines and BI dashboards for stakeholders  
-- Strong problem-solving skills — 300+ DSA problems (LeetCode + GfG)  
-- Comfortable collaborating in Agile teams and using Git for CI-friendly workflows
+I'm a Data Analyst / Business Analyst working on end-to-end data systems — from database 
+architecture to ETL pipelines to BI dashboards that leadership actually uses to make decisions.
 
----
-
-## 💼 Experience 
-### TechEnhance — *Software Development Intern* (Jan 2025 – Mar 2025)  
-- Developed & maintained full-stack apps using **React.js, Node.js, MongoDB**.  
-- Optimized API flow & DB usage — **+30% API efficiency**.  
-- Collaborated in Agile sprints and used Git for version control.
-
-### Plypicker  — *Data Analyst Intern* (Sept 2024 – Dec 2024)  
-- Performed data cleaning and transformation using **Python (Pandas, NumPy)** and **Power Query**, improving data accuracy and reducing manual errors by 35% across reports.
-.  
-- Built **Power BI** & **Tableau dashboards** to visualize sales & customer insights, enabling data-driven decisions.
-- **Automated** recurring reports and **KPI tracking**, reducing reporting time by 40% and improving cross-departmental data accessibility and decision-making speed.
-
-### Ethnus — *Full Stack Intern* (Sept 2023 – Nov 2023)  
-- Built scalable backends with **Node.js & Express**, improving API performance by **25%**.  
-- Integrated **JWT-based authentication** and middleware for logging & error handling.
-
+**Core strengths:**
+- Designing multi-tiered relational database schemas for complex, high-integrity systems
+- Building ETL pipelines that turn fragmented raw data into analysis-ready datasets
+- Translating business requirements into KPI dashboards (Power BI, DAX)
+- Automating manual workflows using Python, REST APIs, and LLM integration
 
 ---
 
-## 🛠️ Tech Stack (visual)
+## 💼 Experience
 
-### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind CSS" />
-</p>
+**Infinity Analytics Consulting** — *Data Analyst / Business Analyst* (Oct 2025 – Present)
 
-### Backend & APIs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-</p>
+- **LetzRyd (Vehicle & Partner Operations Platform):** Architected a multi-tiered relational 
+  database schema (PostgreSQL, MariaDB) for a fleet management portal, ensuring referential 
+  integrity across drivers, partners, and financial ledgers.
+- **TONA (Marketing & Campaign Analytics):** Built ETL workflows extracting marketing data from 
+  AWS S3, reducing report generation time from 2 days to same-day. Designed Power BI dashboards 
+  for real-time KPI tracking.
+- **People Verse (AI Candidate Assessment System):** Architected an LLM-powered recruitment 
+  pipeline automating candidate assessment generation, Google Forms/Drive distribution (OAuth 2.0), 
+  and SMTP delivery — cutting manual hiring effort by 80%.
 
-### Databases & Storage
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
-</p>
-
-### Data & BI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" height="32" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="32" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="36" height="36" alt="Spark" />
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
-</p>
+**Plypicker** — *Data Analyst Intern* (Sept 2024 – Dec 2024)
+- Performed data cleaning and transformation (Python, Power Query), reducing manual errors by 35%.
+- Built Power BI & Tableau dashboards for sales and customer insights.
+- Automated recurring reports and KPI tracking, cutting reporting time by 40%.
 
 ---
 
-## 🔧 Skills & Concepts
-- **Languages:** C/C++, Python, JavaScript (ES6+), SQL, HTML/CSS  
-- **Frameworks:** React.js, Next.js, Node.js, Express.js, FastAPI  
-- **Data:** Pandas, NumPy, Matplotlib, Power BI, Tableau, SQL (Postgres)  
-- **Engineering:** REST APIs, JWT auth, ETL pipelines, pagination, caching basics  
-- **Practices:** Agile workflows, unit testing (basic), Git-based CI workflows
+## 🛠️ Tech Stack
+
+**Data & Analytics:** Python (Pandas, NumPy), SQL, Power BI, DAX, Plotly, Matplotlib  
+**Databases:** PostgreSQL, MariaDB, MongoDB, DBeaver  
+**Data Engineering:** ETL Pipeline Design, AWS S3, Data Quality Frameworks  
+**Automation & APIs:** REST APIs, Google Workspace APIs, OAuth 2.0, LLM Integration  
+**Other:** Git, Jupyter Notebook, MS Excel (Advanced)
 
 ---
 
-## 🎓 Education
-**VIT Bhopal** — B.Tech, Computer Science & Engineering  
-Expected July 2025 • **CGPA: 8.27**
+## 📌 Featured Projects
+
+### [Customer Behaviour & Shopping Trend Analytics](https://github.com/Sushant2520/Customer-Behaviour-Shopping-Trend-Analytics)
+End-to-end analytics workflow: EDA and customer segmentation (Python, Pandas, NumPy), SQL-based 
+insight extraction, and an interactive Power BI dashboard tracking retention rate, revenue by 
+segment, and product performance KPIs.
+
+### [BlackCoffer Insights Visualization & Analytics](https://github.com/Sushant2520/BlackCoffer-Insights-Visualization-Analytics)
+Interactive dashboard interpreting global business insights (intensity, likelihood, relevance, 
+regional trends) with dynamic filters and real-time visualizations.
+
+### [T20 World Cup Data Analytics & Best Final 11](https://github.com/Sushant2520/Data-Analyst-Projects)
+Analyzed historical T20 World Cup performance data (web scraping, Pandas, Power Query) to build a 
+data-driven "Best Final 11" based on defined performance parameters, visualized in Power BI.
 
 ---
 
 ## 🏆 Achievements
-- 300+ DSA problems solved on LeetCode & GeeksforGeeks  
-- Top 10 in **BITWARS 2.0** (intra-college coding contest)  
-- Research publication: *The Role of Large Language Models (LLMs) in Healthcare*  
-- Delivered technical presentation for Unstop Engineers
+
+- 250+ DSA problems solved across LeetCode & GeeksforGeeks
+- Top 10 finish, BITWARS 2.0 (intra-college coding competition)
+- Research publication: *The Role of Large Language Models (LLMs) in Healthcare: Transforming 
+  Diagnosis & Patient Care*
 
 ---
 
-## 📈 GitHub & Activity
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant2520&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant2520&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushant2520&theme=radical)
+## 📫 Get in Touch
 
----
-
-## 📫 Get in touch
-- GitHub: https://github.com/Sushant2520  
-- LinkedIn: https://www.linkedin.com/in/sushant-tripathi-a1035a219/  
-- LeetCode: https://leetcode.com/u/Sushant2520/  
-- GfG: https://www.geeksforgeeks.org/user/sushanttripathi2000st/  
-- Email: sushant.tripathi2000.st@gmail.com
-
----
-
-If you'd like, I can:
-- generate a **short resume-blurb** for your LinkedIn summary,  
-- create a **pinned repo list** for this README (with exact repo links), or  
-- produce a **one-page portfolio site** template to host these projects.  
+- 📧 Email: sushant.tripathi2000.st@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sushant2520](https://www.linkedin.com/in/sushant2520/)
+- 🐙 GitHub: [github.com/Sushant2520](https://github.com/Sushant2520)
