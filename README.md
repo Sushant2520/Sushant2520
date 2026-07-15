@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Tripathi
 
-- 📊 Data Analyst / Business Analyst @ Infinity Analytics Consulting
+- 📊 AI Data Analyst @ Infinyty Tech Global Services Pvt.ltd
 - 🎓 B.Tech CSE, VIT Bhopal (2021–2025)
 - ⚡ Building data pipelines, BI dashboards & database architectures that drive business decisions
 
@@ -107,6 +107,7 @@ data-driven "Best Final 11" based on defined performance parameters, visualized 
   Diagnosis & Patient Care*
 
 ---
+
 
 ## 📫 Get in Touch
 
