@@ -30,44 +30,37 @@ architecture to ETL pipelines to BI dashboards that leadership actually uses to 
 ### Infinity Analytics Consulting — *Data Analyst / Business Analyst* (Oct 2025 – Present)
 
 **LetzRyd — Fleet Operations & Financial Core**
+Enterprise-scale fleet and vehicle management ecosystem. Owned core database architecture and 
+backend infrastructure.
+- Designed a scalable, multi-level PostgreSQL schema managing complex dependencies between fleet 
+  operators, drivers, vehicles, and rental plans
+- Executed zero-downtime database migrations and surgical SQL patching on a large monolithic API 
+  (Python, FastAPI); hardened Pydantic models to validate and secure sensitive payloads
+- Engineered backend logic for the Hisaab Adjustments Application and Rent Ledgers — real-time 
+  financial reconciliation for credits, debits, waivers, and toll penalties
+- Partnered with frontend team to convert static, error-prone UI forms into dynamic React workflows, 
+  cutting manual entry errors for operations teams
 
-For LetzRyd, an enterprise-scale fleet and vehicle management ecosystem, I architected the core 
-relational database and maintained a highly trafficked backend infrastructure. I designed a 
-scalable, multi-level schema in PostgreSQL to manage complex dependencies between fleet operators, 
-drivers, vehicles, and rental plans. On the backend, I executed zero-downtime database migrations 
-and surgical SQL patching on a large monolithic API using Python and FastAPI, while updating 
-Pydantic models to strictly validate and secure sensitive incoming payloads. I also engineered the 
-backend logic for the Hisaab Adjustments Application and Rent Ledgers, handling real-time financial 
-reconciliation for credits, debits, waivers, and toll penalties, and collaborated directly with the 
-frontend team to transform bottlenecked, static UI forms into dynamic React-based workflows — 
-drastically reducing cognitive load and manual entry errors for operations teams.
-
-*Tech: PostgreSQL, Python, FastAPI, Pydantic, SQL, React (collaboration)*
+`PostgreSQL` `Python` `FastAPI` `Pydantic` `SQL` `React (collaboration)`
 
 **Tona — Marketing Analytics & AdTech Engine**
+High-velocity BI engine built to optimize ad spend for scaling D2C brands.
+- Engineered automated ETL pipelines (Python, SQL) extracting and transforming marketing data across 
+  Shopify, Amazon, and Meta Ads
+- Used AWS S3 for cloud data staging, supporting daily high-volume ingestion with no performance drop
+- Built Power BI dashboards surfacing real-time KPIs and true Customer Acquisition Cost (CAC), 
+  enabling faster ad-spend decisions for leadership and marketing teams
 
-To optimize marketing spend for rapidly scaling D2C brands, I developed Tona, a high-velocity data 
-analytics and business intelligence engine. I engineered automated ETL pipelines using Python and 
-SQL to continuously extract, clean, and transform marketing datasets across platforms including 
-Shopify, Amazon, and Meta Ads. I used AWS S3 for secure cloud data staging, optimizing data paths to 
-handle daily high-volume ingestion without performance drops. By transforming raw ad-spend data into 
-structured, dynamic Power BI dashboards, I enabled leadership and marketing teams to track real-time 
-KPIs, accurately calculate true Customer Acquisition Cost (CAC), and make faster, data-driven 
-decisions to optimize advertising ROI.
-
-*Tech: Python, SQL, AWS S3, Power BI, ETL Pipelines*
+`Python` `SQL` `AWS S3` `Power BI` `ETL Pipelines`
 
 **People Verse — AI-Powered Talent Intelligence**
+End-to-end automated recruitment pipeline using LLMs to generate tailored candidate assessments.
+- Integrated Google Forms & Drive APIs (OAuth 2.0) for seamless cross-platform data movement
+- Built a Python extraction layer (Pandas, OpenPyXL) converting unstructured LLM outputs into 
+  structured, actionable datasets
+- Automated SMTP-based assessment delivery, **reducing manual hiring workflow effort by 80%**
 
-I designed and deployed an end-to-end automated recruitment pipeline that leveraged Large Language 
-Models (LLMs) to auto-generate tailored candidate assessments and technical evaluations. To move 
-data seamlessly across platforms, I integrated Google Forms and Drive APIs using OAuth 2.0 
-authentication and engineered a Python-based extraction layer (Pandas, OpenPyXL) to parse 
-unstructured AI outputs into structured, actionable datasets. By integrating SMTP email automation 
-to trigger instant assessment delivery to candidates, I reduced manual HR operational effort and 
-workflow bottlenecks by 80%.
-
-*Tech: Python, LLMs, Google Workspace APIs, OAuth 2.0, Pandas, OpenPyXL, SMTP*
+`Python` `LLMs` `Google Workspace APIs` `OAuth 2.0` `Pandas` `OpenPyXL` `SMTP`
 
 ---
 
