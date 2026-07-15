@@ -27,19 +27,51 @@ architecture to ETL pipelines to BI dashboards that leadership actually uses to 
 
 ## 💼 Experience
 
-**Infinity Analytics Consulting** — *Data Analyst / Business Analyst* (Oct 2025 – Present)
+### Infinity Analytics Consulting — *Data Analyst / Business Analyst* (Oct 2025 – Present)
 
-- **LetzRyd (Vehicle & Partner Operations Platform):** Architected a multi-tiered relational 
-  database schema (PostgreSQL, MariaDB) for a fleet management portal, ensuring referential 
-  integrity across drivers, partners, and financial ledgers.
-- **TONA (Marketing & Campaign Analytics):** Built ETL workflows extracting marketing data from 
-  AWS S3, reducing report generation time from 2 days to same-day. Designed Power BI dashboards 
-  for real-time KPI tracking.
-- **People Verse (AI Candidate Assessment System):** Architected an LLM-powered recruitment 
-  pipeline automating candidate assessment generation, Google Forms/Drive distribution (OAuth 2.0), 
-  and SMTP delivery — cutting manual hiring effort by 80%.
+**LetzRyd — Fleet Operations & Financial Core**
 
-**Plypicker** — *Data Analyst Intern* (Sept 2024 – Dec 2024)
+For LetzRyd, an enterprise-scale fleet and vehicle management ecosystem, I architected the core 
+relational database and maintained a highly trafficked backend infrastructure. I designed a 
+scalable, multi-level schema in PostgreSQL to manage complex dependencies between fleet operators, 
+drivers, vehicles, and rental plans. On the backend, I executed zero-downtime database migrations 
+and surgical SQL patching on a large monolithic API using Python and FastAPI, while updating 
+Pydantic models to strictly validate and secure sensitive incoming payloads. I also engineered the 
+backend logic for the Hisaab Adjustments Application and Rent Ledgers, handling real-time financial 
+reconciliation for credits, debits, waivers, and toll penalties, and collaborated directly with the 
+frontend team to transform bottlenecked, static UI forms into dynamic React-based workflows — 
+drastically reducing cognitive load and manual entry errors for operations teams.
+
+*Tech: PostgreSQL, Python, FastAPI, Pydantic, SQL, React (collaboration)*
+
+**Tona — Marketing Analytics & AdTech Engine**
+
+To optimize marketing spend for rapidly scaling D2C brands, I developed Tona, a high-velocity data 
+analytics and business intelligence engine. I engineered automated ETL pipelines using Python and 
+SQL to continuously extract, clean, and transform marketing datasets across platforms including 
+Shopify, Amazon, and Meta Ads. I used AWS S3 for secure cloud data staging, optimizing data paths to 
+handle daily high-volume ingestion without performance drops. By transforming raw ad-spend data into 
+structured, dynamic Power BI dashboards, I enabled leadership and marketing teams to track real-time 
+KPIs, accurately calculate true Customer Acquisition Cost (CAC), and make faster, data-driven 
+decisions to optimize advertising ROI.
+
+*Tech: Python, SQL, AWS S3, Power BI, ETL Pipelines*
+
+**People Verse — AI-Powered Talent Intelligence**
+
+I designed and deployed an end-to-end automated recruitment pipeline that leveraged Large Language 
+Models (LLMs) to auto-generate tailored candidate assessments and technical evaluations. To move 
+data seamlessly across platforms, I integrated Google Forms and Drive APIs using OAuth 2.0 
+authentication and engineered a Python-based extraction layer (Pandas, OpenPyXL) to parse 
+unstructured AI outputs into structured, actionable datasets. By integrating SMTP email automation 
+to trigger instant assessment delivery to candidates, I reduced manual HR operational effort and 
+workflow bottlenecks by 80%.
+
+*Tech: Python, LLMs, Google Workspace APIs, OAuth 2.0, Pandas, OpenPyXL, SMTP*
+
+---
+
+### Plypicker — *Data Analyst Intern* (Sept 2024 – Dec 2024)
 - Performed data cleaning and transformation (Python, Power Query), reducing manual errors by 35%.
 - Built Power BI & Tableau dashboards for sales and customer insights.
 - Automated recurring reports and KPI tracking, cutting reporting time by 40%.
@@ -50,8 +82,9 @@ architecture to ETL pipelines to BI dashboards that leadership actually uses to 
 
 **Data & Analytics:** Python (Pandas, NumPy), SQL, Power BI, DAX, Plotly, Matplotlib  
 **Databases:** PostgreSQL, MariaDB, MongoDB, DBeaver  
+**Backend & APIs:** FastAPI, Pydantic, REST APIs, Google Workspace APIs, OAuth 2.0  
 **Data Engineering:** ETL Pipeline Design, AWS S3, Data Quality Frameworks  
-**Automation & APIs:** REST APIs, Google Workspace APIs, OAuth 2.0, LLM Integration  
+**Automation & AI:** LLM Integration, SMTP Automation  
 **Other:** Git, Jupyter Notebook, MS Excel (Advanced)
 
 ---
