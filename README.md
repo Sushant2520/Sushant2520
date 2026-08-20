@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Tripathi
 
-- 📊 AI Data Analyst @ Infinyty Tech Global Services Pvt.ltd
+- 📊 AI Data Analyst @ Infinyty Tech Global Solutions
 - 🎓 B.Tech CSE, VIT Bhopal (2021–2025)
 - ⚡ Building data pipelines, BI dashboards & database architectures that drive business decisions
 
