@@ -27,7 +27,7 @@ architecture to ETL pipelines to BI dashboards that leadership actually uses to 
 
 ## 💼 Experience
 
-### Infinity Analytics Consulting — *Data Analyst / Business Analyst* (Oct 2025 – Present)
+### Infinyty Tech — *Data Analyst / Business Analyst* (Oct 2025 – Present)
 
 **LetzRyd — Fleet Operations & Financial Core**
 Enterprise-scale fleet and vehicle management ecosystem. Owned core database architecture and 
